@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "itok toni",
+    "description": "",
+    "home_page_url": "https://itoktoni.github.io",
+    "feed_url": "https://itoktoni.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "itok toni laksono"
+    },
+    "items": [
+    ]
+}
